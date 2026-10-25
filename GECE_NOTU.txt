@@ -1,0 +1,17 @@
+GECE — Proje Notu
+
+Amaç: Android telefonda çalışan, öncelikle çevrimdışı kullanılabilen Türkçe yapay zekâ arkadaş.
+
+Özellikler:
+
+- Türkçe yazılı sohbet
+- Sesli konuşma ve sesli yanıt
+- Sohbet geçmişini cihazda saklama
+- Kalıcı hafıza
+- İsteğe bağlı proaktif bildirimler
+- Kişisel dosyalara ve telefon verilerine izinsiz erişmeme
+- İnternet olmadan çalışan yerel dil modeli
+
+Hedef cihaz: POCO X3 Pro, 8 GB RAM.
+
+Öncelik: Android APK olarak derlenebilen gerçek bir proje hazırlamak. Yerel yapay zekâ motoru henüz eklenmedi.
